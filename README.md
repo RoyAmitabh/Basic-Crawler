@@ -14,6 +14,7 @@ If your web crawler doesn't comply with the rules in the robots.txt file, it cou
  c. Crawling websites without respecting the crawl rate specified in the robots.txt file can put unnecessary load on the server
 
 Pre-requisites : 
-**pip install requests**
 
-**pip install beautifulsoup4**
+1. **pip install requests**
+
+2. **pip install beautifulsoup4**
